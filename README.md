@@ -1,3 +1,9 @@
+
+![Home-Laptop](https://github.com/zidan-bsd/react-ecommerce/assets/58164324/b502a57e-7aef-4364-9005-3efa71f12521)
+![Product-List-Laptop](https://github.com/zidan-bsd/react-ecommerce/assets/58164324/8053d0dc-1f27-4beb-8f75-24ebef5e51fb)
+![Product-View-Laptop](https://github.com/zidan-bsd/react-ecommerce/assets/58164324/76c6ffc5-7551-4fa6-bb8b-e328d3fed598)
+![Cart-Laptop](https://github.com/zidan-bsd/react-ecommerce/assets/58164324/c4280d21-2812-4115-a23b-ad679d7a2bcb)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
